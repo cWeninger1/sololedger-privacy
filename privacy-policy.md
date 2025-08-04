@@ -1,8 +1,8 @@
 # Privacy Policy for SoloLedger
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [8/4/25]
 
-SoloLedger ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose your information when you use our app.
+SoloLedger is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose your information when you use our app.
 
 ---
 
@@ -83,4 +83,4 @@ We may update this Privacy Policy from time to time. Continued use of the app in
 ## 9. Contact Us
 
 If you have questions or concerns, contact us at:  
-📧 **support@yourdomain.com**
+📧 calebweninger@hotmail.com
